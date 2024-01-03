@@ -14,7 +14,7 @@ orrrrlr
 
 ![cat](blog/pic/cat1.jpg)
 
-<table width=750>
+<table align=center>
   <tr>
     <td>Title</td>
     <td>科目</td>
@@ -23,3 +23,5 @@ orrrrlr
     <td>文學</td>
     <td>文言文</td>
   </tr>
+</table>
+<img alt="cat.jpg" src="pic/cat1.jpg">
