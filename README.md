@@ -24,4 +24,4 @@ orrrrlr
     <td>文言文</td>
   </tr>
 </table>
-<img alt="cat.jpg" src="pic/cat1.jpg">
+<img alt="cat.jpg" src="blog/pic/cat1.jpg">
