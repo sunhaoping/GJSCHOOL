@@ -8,4 +8,4 @@
 abbbccfeeelaaa
 orrrrlr
 <hr>
-[KIMO]_(http://tw.yahoo.com)_
+[KIMO](http://tw.yahoo.com)
